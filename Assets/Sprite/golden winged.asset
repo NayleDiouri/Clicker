@@ -10,5 +10,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 47171c990544064409f08483e28de0a6, type: 3}
-  m_Name: Berries
+  m_Name: golden winged
   m_EditorClassIdentifier: 
+  berryName: Winged Golden Berry
+  berrySprite: {fileID: 21300000, guid: cc3d7384d6199224f9b8d60414588c4c, type: 3}
+  berryHP: 250
