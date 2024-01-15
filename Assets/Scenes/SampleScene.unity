@@ -533,6 +533,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1107605464}
   - component: {fileID: 1107605463}
+  - component: {fileID: 1107605465}
   m_Layer: 0
   m_Name: Square
   m_TagString: Untagged
@@ -601,12 +602,31 @@ Transform:
   m_GameObject: {fileID: 1107605462}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 1.45, y: -3.79, z: 0}
+  m_LocalPosition: {x: 1.39, y: -3.65, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1107605465
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1107605462}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e0d0bc6bb84bff341a94d30bd91b80d9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sR: {fileID: 1107605463}
+  berrieToRead:
+  - {fileID: 11400000, guid: 22ab2c4de31ff554793fb31fa1ed27d9, type: 2}
+  - {fileID: 11400000, guid: 3a47fe7fca872cc41ab8d72b871619fa, type: 2}
+  - {fileID: 11400000, guid: 58fe184397c0f21499b6c9ee3aaa49b0, type: 2}
+  - {fileID: 11400000, guid: e6332ffa66852354aafd40038e8772fe, type: 2}
+  - {fileID: 11400000, guid: a2dd692e8257e2c45a256581e9b22036, type: 2}
 --- !u!1 &1387095295
 GameObject:
   m_ObjectHideFlags: 0
