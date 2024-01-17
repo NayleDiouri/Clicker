@@ -9,5 +9,5 @@ public class Berries : ScriptableObject
 
     public string berryName;
     public Sprite berrySprite;
-    public int berryHP;
+    public float berryHP;
 }
