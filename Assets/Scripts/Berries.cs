@@ -10,4 +10,5 @@ public class Berries : ScriptableObject
     public string berryName;
     public Sprite berrySprite;
     public float berryHP;
+    public float money;
 }

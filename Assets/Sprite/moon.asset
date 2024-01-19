@@ -15,3 +15,4 @@ MonoBehaviour:
   berryName: Moon Berry
   berrySprite: {fileID: 21300000, guid: 29565d079d47cc44e8156a9bfa425032, type: 3}
   berryHP: 500
+  money: 50
