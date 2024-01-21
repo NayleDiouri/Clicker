@@ -14,5 +14,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   berryName: Winged Berry
   berrySprite: {fileID: 21300000, guid: d54a0a7d29a13e948904735bd4acfbde, type: 3}
-  berryHP: 50
-  money: 19.208
+  berryHP: 10
+  money: 73.789444
